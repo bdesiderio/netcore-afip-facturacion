@@ -1,4 +1,5 @@
 # netcore-afip-facturacion
+Hola necesito comunicarme contigo, podrias hablarme a mi mail tomas.marro10@gmail.com
 Facturacion AFIP para NETCore 5 implementado para ser utilizado con inyección de dependencias. El proyecto disponibiliza usos básicos de la facturación y se encuentra en desarrollo.
 
 Este proyecto nace como un fork de:
